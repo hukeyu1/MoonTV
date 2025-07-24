@@ -49,7 +49,7 @@
       "api": "https://dbzy.tv/api.php/provide/vod",
       "name": "豆瓣资源"
     },
-    "souavzy": {
+    "souav": {
       "api": "https://api.souavzy.vip/api.php/provide/vod",
       "name": "搜av资源"
     },
@@ -76,6 +76,10 @@
     "ikun": {
       "api": "https://ikunzyapi.com/api.php/provide/vod",
       "name": "iKun资源"
+    },
+    "155": {
+      "api": "https://155api.com/api.php/provide/vod",
+      "name": "155资源网"
     }
   }
 }
