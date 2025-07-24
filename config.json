@@ -80,6 +80,34 @@
     "155": {
       "api": "https://155api.com/api.php/provide/vod",
       "name": "155资源网"
+    },
+    "hsck": {
+      "api": "https://hsckzy.vip/api.php/provide/vod",
+      "name": "黄色仓库资源"
+    },
+    "apiyutu": {
+      "api": "https://apiyutu.com/api.php/provide/vod",
+      "name": "玉兔资源"
+    },
+    "apilj": {
+      "api": "https://apilj.com/api.php/provide/vod",
+      "name": "辣椒资源"
+    },
+    "jkunzyapi": {
+      "api": "https://www.jkunzyapi.com/api.php/provide/vod",
+      "name": "iKun资源"
+    },
+    "slapibf": {
+      "api": "https://slapibf.com/api.php/provide/vod",
+      "name": "森林资源网"
+    },
+    "naixxzy": {
+      "api": "https://naixxzy.com/api.php/provide/vod",
+      "name": "奶香香资源"
+    },
+    "apilyzy": {
+      "api": "https://api.apilyzy.com/api.php/provide/vod",
+      "name": "老鸭资源"
     }
   }
 }
